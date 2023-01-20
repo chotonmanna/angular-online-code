@@ -10,7 +10,7 @@ export class ComponentAComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    
+    console.log('component a');
   }
 
 }
